@@ -2,8 +2,8 @@
 
 | Chapter | Details |
 |:-------:|:-------:|
-| 1: Getting started with Node.js | [Readme]() |
-| 2: npm | [Readme]() |
+| 1: Getting started with Node.js | [Readme](/chapters/1/readme.md) |
+| 2: npm | [Readme](/chapters/2/readme.md) |
 | 3: Web Apps With Express | [Readme]() |
 | 4: Filesystem I/O | [Readme]() |
 | 5: Exporting and Consuming Modules | [Readme]() |
