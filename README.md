@@ -4,7 +4,7 @@
 |:-------:|:-------:|
 | 1: Getting started with Node.js | [Readme](/chapters/1/readme.md) |
 | 2: npm | [Readme](/chapters/2/readme.md) |
-| 3: Web Apps With Express | [Readme]() |
+| 3: Web Apps With Express | [Readme](/chapters/3/readme.md) |
 | 4: Filesystem I/O | [Readme]() |
 | 5: Exporting and Consuming Modules | [Readme]() |
 | 6: Exporting and Importing Module in node.js | [Readme]() |
