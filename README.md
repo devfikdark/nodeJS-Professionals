@@ -112,8 +112,8 @@
 
 * Chapter 10: package.json
 
-  - [Section 10.1: Exploring package.json]
-  - [Section 10.2: Scripts]
-  - [Section 10.3: Basic project definition]
-  - [Section 10.4: Dependencies]
-  - [Section 10.5: Extended project definition]
+  - [Section 10.1: Exploring package.json](/book_pages/chapter10/section10.1.md)
+  - [Section 10.2: Scripts](/book_pages/chapter10/section10.2.md)
+  - [Section 10.3: Basic project definition](/book_pages/chapter10/section10.3.md)
+  - [Section 10.4: Dependencies](/book_pages/chapter10/section10.4.md)
+  - [Section 10.5: Extended project definition](/book_pages/chapter10/section10.5.md)
