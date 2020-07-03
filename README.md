@@ -92,8 +92,8 @@
 
 * Chapter 6: Exporting and Importing Module in node.js
 
-  - [Section 6.1: Exporting with ES6 syntax]
-  - [Section 6.2: Using a simple module in node.js]
+  - [Section 6.1: Exporting with ES6 syntax](/book_pages/chapter6/section6.1.md)
+  - [Section 6.2: Using a simple module in node.js](/book_pages/chapter6/section6.2.md)
 
 * Chapter 7: How modules are loaded
 

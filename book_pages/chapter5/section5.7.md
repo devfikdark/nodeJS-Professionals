@@ -1,3 +1,5 @@
+# Section 5.7: Invalidating the module cache
+
 In development, you may find that using require() on the same module multiple times 
 always returns the same module, even if you have made changes to that file. This is 
 because modules are cached the first time they are loaded, and any subsequent module 

@@ -1,3 +1,5 @@
+# Section 5.4: Every module injected only once
+
 NodeJS executes the module only the first time you require it. Any further require 
 functions will re-use the same Object, thus not executing the code in the module 
 another time. Also Node caches the modules first time they are loaded using require. 

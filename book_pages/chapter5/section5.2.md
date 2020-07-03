@@ -1,3 +1,5 @@
+# Section 5.2: Loading and using a module
+
 A module can be "imported", or otherwise "required" by the require() function. For 
 example, to load the http module that ships with Node.js, the following can be used:
 ```js

@@ -1,3 +1,5 @@
+# Section 5.6: Building your own modules
+
 You can also reference an object to publicly export and continuously append methods to that object:
 
 ```js

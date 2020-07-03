@@ -1,6 +1,8 @@
+# Section 5.1: Creating a hello-world.js module
+
 Node provides the module.exports interface to expose functions and variables to other 
 files. The most simple way to do so is to export only one object (function or 
-variable, as shown in the first example.
+variable), as shown in the first example.
 
 ### hello-world.js
 
@@ -14,9 +16,9 @@ If we don't want the entire export to be a single object, we can export function
 variables as properties of the exports object. The three following examples all 
 demonstrate this in slightly different ways :
 
-- hello-venus.js : the function definition is done separately then added as a property of module.exports
-- hello-jupiter.js : the functions definitions are directly put as the value of properties of module.exports
-- hello-mars.js : the function definition is directly declared as a property of exports which is a short version of module.exports
+- **hello-venus.js** : the function definition is done separately then added as a property of module.exports
+- **hello-jupiter.js** : the functions definitions are directly put as the value of properties of module.exports
+- h**ello-mars.js** : the function definition is directly declared as a property of exports which is a short version of module.exports
 
 ### hello-venus.js
 

@@ -1,3 +1,5 @@
+# Section 5.3: Folder as a module
+
 Modules can be split across many .js files in the same folder. An example in a my_module folder:
 
 ### function_one.js
