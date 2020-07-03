@@ -1,114 +1,119 @@
-# NodeJS-Notes-For-Professionals
+# NodeJS Notes For Professionals
 
-| Chapter | Details |
-|:-------:|:-------:|
-| 1: Getting started with Node.js | [Readme](/chapters/1/readme.md) |
-| 2: npm | [Readme](/chapters/2/readme.md) |
-| 3: Web Apps With Express | [Readme](/chapters/3/readme.md) |
-| 4: Filesystem I/O | [Readme](/chapters/4/readme.md) |
-| 5: Exporting and Consuming Modules | [Readme]() |
-| 6: Exporting and Importing Module in node.js | [Readme]() |
-| 7: How modules are loaded | [Readme]() |
-| 8: Cluster Module | [Readme]() |
-| 9: Readline | [Readme]() |
-| 10: package.json | [Readme]() |
-| 11: Event Emitters | [Readme]() |
-| 12: Autoreload on changes | [Readme]() |
-| 13: Environment | [Readme]() |
-| 14: Callback to Promise | [Readme]() |
-| 15: Executing files or commands with Child Processes | [Readme]() |
-| 16: Exception handling | [Readme]() |
-| 17: Keep a node application constantly running | [Readme]() |
-| 18: Uninstalling Node.js | [Readme]() |
-| 19: nvm - Node Version Manager | [Readme]() |
-| 20: http | [Readme]() |
-| 21: Using Streams | [Readme]() |
-| 22: Deploying Node.js applications in production | [Readme]() |
-| 23: Securing Node.js applications | [Readme]() |
-| 24: Mongoose Library | [Readme]() |
-| 25: async.js | [Readme]() |
-| 26: File upload | [Readme]() |
-| 27: Socket.io communication | [Readme]() |
-| 28: Mongodb integration | [Readme]() |
-| 29: Handling POST request in Node.js | [Readme]() |
-| 30: Simple REST based CRUD API | [Readme]() |
-| 31: Template frameworks | [Readme]() |
-| 32: Node.js Architecture & Inner Workings | [Readme]() |
-| 33: Debugging Node.js application | [Readme]() |
-| 34: Node server without framework | [Readme]() |
-| 35: Node.JS with ES6 | [Readme]() |
-| 36: Interacting with Console | [Readme]() |
-| 37: Cassandra Integration | [Readme]() |
-| 38: Creating API's with Node.js | [Readme]() |
-| 39: Graceful Shutdown | [Readme]() |
-| 40: Using IISNode to host Node.js Web Apps in IIS | [Readme]() |
-| 41: CLI | [Readme]() |
-| 42: NodeJS Frameworks | [Readme]() |
-| 43: grunt | [Readme]() |
-| 44: Using WebSocket's with Node.JS | [Readme]() |
-| 45: metalsmith | [Readme]() |
-| 46: Parsing command line arguments | [Readme]() |
-| 47: Client-server communication | [Readme]() |
-| 48: Node.js Design Fundamental | [Readme]() |
-| 49: Connect to Mongodb | [Readme]() |
-| 50: Performance challenges | [Readme]() |
-| 51: Send Web Notification | [Readme]() |
-| 52: Remote Debugging in Node.JS | [Readme]() |
-| 53: Database (MongoDB with Mongoose) | [Readme]() |
-| 54: Good coding style | [Readme]() |
-| 55: Restful API Design: Best Practices | [Readme]() |
-| 56: Deliver HTML or any other sort of file | [Readme]() |
-| 57: TCP Sockets | [Readme]() |
-| 58: Hack | [Readme]() |
-| 59: Bluebird Promises | [Readme]() |
-| 60: Async/Await | [Readme]() |
-| 61: Koa Framework v2 | [Readme]() |
-| 62: Unit testing frameworks | [Readme]() |
-| 63: ECMAScript 2015 (ES6) with Node.js | [Readme]() |
-| 64: Routing AJAX requests with Express.JS | [Readme]() |
-| 65: Sending a file stream to client | [Readme]() |
-| 66: NodeJS with Redis | [Readme]() |
-| 67: Using Browserfiy to resolve 'required' error with browsers | [Readme]() |
-| 68: Node.JS and MongoDB. | [Readme]() |
-| 69: Passport integration | [Readme]() |
-| 70: Dependency Injection | [Readme]() |
-| 71: NodeJS Beginner Guide | [Readme]() |
-| 72: Use Cases of Node.js | [Readme]() |
-| 73: Sequelize.js | [Readme]() |
-| 74: PostgreSQL integration | [Readme]() |
-| 75: MySQL integration | [Readme]() |
-| 76: MySQL Connection Pool | [Readme]() |
-| 77: MSSQL Intergration | [Readme]() |
-| 78: Node.js with Oracle | [Readme]() |
-| 79: Synchronous vs Asynchronous programming in nodejs | [Readme]() |
-| 80: Node.js Error Management | [Readme]() |
-| 81: Node.js v6 New Features and Improvement | [Readme]() |
-| 82: Eventloop | [Readme]() |
-| 83: Nodejs History | [Readme]() |
-| 84: passport.js | [Readme]() |
-| 85: Asynchronous programming | [Readme]() |
-| 86: Node.js code for STDIN and STDOUT without using any library | [Readme]() |
-| 87: MongoDB Integration for Node.js/Express.js | [Readme]() |
-| 88: Lodash | [Readme]() |
-| 89: csv parser in node js | [Readme]() |
-| 90: Loopback - REST Based connector | [Readme]() |
-| 91: Running node.js as a service | [Readme]() |
-| 92: Node.js with CORS | [Readme]() |
-| 93: Getting started with Nodes profiling | [Readme]() |
-| 94: Node.js Performance | [Readme]() |
-| 95: Yarn Package Manager | [Readme]() |
-| 96: OAuth 2.0 | [Readme]() |
-| 97: Node JS Localization | [Readme]() |
-| 98: Deploying Node.js application without downtime | [Readme]() |
-| 99: Node.js (express.js) with angular.js Sample code | [Readme]() |
-| 100: NodeJs Routing | [Readme]() |
-| 101: Creating a Node.js Library that Supports Both Promises and Error- First Callbacks | [Readme]() |
-| 102: Project Structure | [Readme]() |
-| 103: Avoid callback hell | [Readme]() |
-| 104: Arduino communication with nodeJs | [Readme]() |
-| 105: N-API | [Readme]() |
-| 106: Multithreading | [Readme]() |
-| 107: Windows authentication under node.js | [Readme]() |
-| 108: Require() | [Readme]() |
-| 109: Route-Controller-Service structure for ExpressJS | [Readme]() |
-| 110: Push notifications | [Readme]() |
+## Table of Contents
+
+* <details>
+  <summary>Chapter 1: Getting started with Node.js</summary>
+
+  - [Section 1.1: Hello World HTTP server](/book_pages/chapter1/section1.1.md)
+  - [Section 1.2: Hello World command line](/book_pages/chapter1/section1.2.md)
+  - [Section 1.3: Hello World with Express](/book_pages/chapter1/section1.3.md)
+  - [Section 1.4: Installing and Running Node.js ](/book_pages/chapter1/section1.4.md)
+  - [Section 1.5: Debugging Your NodeJS Application](/book_pages/chapter1/section1.5.md)
+  - [Section 1.6: Hello World basic routing](/book_pages/chapter1/section1.6.md)
+  - [Section 1.7: Hello World in the REPL](/book_pages/chapter1/section1.7.md)
+  - [Section 1.8: Deploying your application online](/book_pages/chapter1/section1.8.md)
+  - [Section 1.9: Core modules](/book_pages/chapter1/section1.9.md)
+  - [Section 1.10: TLS Socket: server and client](/book_pages/chapter1/section1.10.md)
+  - [Section 1.11: How to get a basic HTTPS web server up and running!](/book_pages/chapter1/section1.11.md)
+</details>
+
+* <details>
+  <summary>Chapter 2: npm</summary>
+
+  - [Section 2.0: Basic](/book_pages/chapter2/section2.0.md)
+  - [Section 2.1: Installing packages](/book_pages/chapter2/section2.1.md)
+  - [Section 2.2: Uninstalling packages](/book_pages/chapter2/section2.2.md)
+  - [Section 2.3: Setting up a package configuration](/book_pages/chapter2/section2.3.md)
+  - [Section 2.4: Running scripts](/book_pages/chapter2/section2.4.md)
+  - [Section 2.5: Basic semantic versioning](/book_pages/chapter2/section2.5.md)
+  - [Section 2.6: Publishing a package](/book_pages/chapter2/section2.6.md)
+  - [Section 2.7: Removing extraneous packages](/book_pages/chapter2/section2.7.md)
+  - [Section 2.8: Listing currently installed packages](/book_pages/chapter2/section2.8.md)
+  - [Section 2.9: Updating npm and packages](/book_pages/chapter2/section2.9.md)
+  - [Section 2.10: Scopes and repositories](/book_pages/chapter2/section2.10.md)
+  - [Section 2.11: Linking projects for faster debugging and development](/book_pages/chapter2/section2.11.md)
+  - [Section 2.12: Locking modules to specific versions](/book_pages/chapter2/section2.12.md)
+  - [Section 2.13: Setting up for globally installed packages ](/book_pages/chapter2/section2.13.md)
+</details>
+
+* <details>
+  <summary>Chapter 3: Web Apps With Express</summary>
+
+  - [Section 3.0: Basic](/book_pages/chapter3/section3.0.md)
+  - [Section 3.1: Getting Started](/book_pages/chapter3/section3.1.md)
+  - [Section 3.2: Basic routing](/book_pages/chapter3/section3.2.md)
+  - [Section 3.3: Modular express application](/book_pages/chapter3/section3.3.md)
+  - [Section 3.4: Using a Template Engine](/book_pages/chapter3/section3.4.md)
+  - [Section 3.5: JSON API with ExpressJS](/book_pages/chapter3/section3.5.md)
+  - [Section 3.6: Serving static files](/book_pages/chapter3/section3.6.md)
+  - [Section 3.7: Adding Middleware](/book_pages/chapter3/section3.7.md)
+  - [Section 3.8: Error Handling](/book_pages/chapter3/section3.8.md)
+  - [Section 3.9: Getting info from the request](/book_pages/chapter3/section3.9.md)
+  - [Section 3.10: Error handling in Express](/book_pages/chapter3/section3.10.md)
+  - [Section 3.11: Hook: How to execute code before any req and after any res](/book_pages/chapter3/section3.11.md)
+  - [Section 3.12: Setting cookies with cookie-parser](/book_pages/chapter3/section3.12.md)
+  - [Section 3.13: Custom middleware in Express](/book_pages/chapter3/section3.13.md)
+  - [Section 3.14: Named routes in Django-style](/book_pages/chapter3/section3.14.md)
+  - [Section 3.15: Hello World](/book_pages/chapter3/section3.15.md)
+  - [Section 3.16: Using middleware and the next callback](/book_pages/chapter3/section3.16.md)
+  - [Section 3.17: Error handling](/book_pages/chapter3/section3.17.md)
+  - [Section 3.18: Handling POST Requests](/book_pages/chapter3/section3.18.md)
+</details>
+
+* <details>
+  <summary>Chapter 4: Filesystem I/O</summary>
+
+  - [Section 4.1: Asynchronously Read from Files](/book_pages/chapter4/section4.1.md)
+  - [Section 4.2: Listing Directory Contents with readdir or readdirSync](/book_pages/chapter4/section4.2.md)
+  - [Section 4.3: Copying files by piping streams](/book_pages/chapter4/section4.3.md)
+  - [Section 4.4: Reading from a file synchronously](/book_pages/chapter4/section4.4.md)
+  - [Section 4.5: Check Permissions of a File or Directory](/book_pages/chapter4/section4.5.md)
+  - [Section 4.6: Checking if a file or a directory exists](/book_pages/chapter4/section4.6.md)
+  - [Section 4.7: Determining the line count of a text file](/book_pages/chapter4/section4.7.md)
+  - [Section 4.8: Reading a file line by line](/book_pages/chapter4/section4.8.md)
+  - [Section 4.9: Avoiding race conditions when creating or using an existing directory](/book_pages/chapter4/section4.9.md)
+  - [Section 4.10: Cloning a file using streams](/book_pages/chapter4/section4.10.md)
+  - [Section 4.11: Writing to a file using writeFile or writeFileSync](/book_pages/chapter4/section4.11.md)
+  - [Section 4.12: Changing contents of a text file](/book_pages/chapter4/section4.12.md)
+  - [Section 4.13: Deleting a file using unlink or unlinkSync](/book_pages/chapter4/section4.13.md)
+  - [Section 4.14: Reading a file into a Buer using streams](/book_pages/chapter4/section4.14.md)
+</details>
+
+* Chapter 5: Exporting and Consuming Modules
+
+  - [Section 5.1: Creating a hello-world.js module]
+  - [Section 5.2: Loading and using a module]
+  - [Section 5.3: Folder as a module]
+  - [Section 5.4: Every module injected only once]
+  - [Section 5.5: Module loading from node_modules]
+  - [Section 5.6: Building your own modules]
+  - [Section 5.7: Invalidating the module cache]
+
+* Chapter 6: Exporting and Importing Module in node.js
+
+  - [Section 6.1: Exporting with ES6 syntax]
+  - [Section 6.2: Using a simple module in node.js]
+
+* Chapter 7: How modules are loaded
+
+   - [Section 7.1: Global Mode]
+   - [Section 7.2: Loading modules]
+
+* Chapter 8: Cluster Module
+
+  - [Section 8.1: Hello World]
+  - [Section 8.2: Cluster Example]
+
+* Chapter 9: Readline
+
+  - [Section 9.1: Line-by-line file reading]
+  - [Section 9.2: Prompting user input via CLI]
+
+* Chapter 10: package.json
+
+  - [Section 10.1: Exploring package.json]
+  - [Section 10.2: Scripts]
+  - [Section 10.3: Basic project definition]
+  - [Section 10.4: Dependencies]
+  - [Section 10.5: Extended project definition]

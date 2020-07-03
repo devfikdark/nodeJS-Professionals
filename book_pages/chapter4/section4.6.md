@@ -1,3 +1,5 @@
+# Section 4.6: Checking if a file or a directory exists
+
 ### Asynchronously
 
 ```js

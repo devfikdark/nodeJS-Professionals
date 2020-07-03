@@ -1,3 +1,5 @@
+# Section 4.5: Check Permissions of a File or Directory
+
 `fs.access()` determines whether a path exists and what permissions a user has to the 
 file or directory at that path. `fs.access` doesn't return a result rather, if it 
 doesn't return an error, the path exists and the user has the desired permissions.

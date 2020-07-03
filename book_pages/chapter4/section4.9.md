@@ -1,3 +1,5 @@
+# Section 4.9: Avoiding race conditions when creating or using an existing directory
+
 Due to Node's asynchronous nature, creating or using a directory by first:
 - checking for its existence with `fs.stat()`, then
 - creating or using it depending of the results of the existence check,

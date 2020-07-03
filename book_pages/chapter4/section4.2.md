@@ -1,3 +1,5 @@
+# Section 4.2: Listing Directory Contents with readdir or readdirSync
+
 ```js
 const fs = require('fs');
 

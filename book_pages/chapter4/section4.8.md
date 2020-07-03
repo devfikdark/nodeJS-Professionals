@@ -1,3 +1,5 @@
+# Section 4.8: Reading a file line by line
+
 ```js
 const readline = require('readline');
 const fs = require('fs');
