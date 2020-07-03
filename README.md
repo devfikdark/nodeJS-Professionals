@@ -97,8 +97,8 @@
 
 * Chapter 7: How modules are loaded
 
-   - [Section 7.1: Global Mode]
-   - [Section 7.2: Loading modules]
+   - [Section 7.1: Global Mode](/book_pages/chapter7/section7.1.md)
+   - [Section 7.2: Loading modules](/book_pages/chapter7/section7.2.md)
 
 * Chapter 8: Cluster Module
 
