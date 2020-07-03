@@ -82,13 +82,13 @@
 
 * Chapter 5: Exporting and Consuming Modules
 
-  - [Section 5.1: Creating a hello-world.js module]
-  - [Section 5.2: Loading and using a module]
-  - [Section 5.3: Folder as a module]
-  - [Section 5.4: Every module injected only once]
-  - [Section 5.5: Module loading from node_modules]
-  - [Section 5.6: Building your own modules]
-  - [Section 5.7: Invalidating the module cache]
+  - [Section 5.1: Creating a hello-world.js module](/book_pages/chapter5/section5.1.md)
+  - [Section 5.2: Loading and using a module](/book_pages/chapter5/section5.2.md)
+  - [Section 5.3: Folder as a module](/book_pages/chapter5/section5.3.md)
+  - [Section 5.4: Every module injected only once](/book_pages/chapter5/section5.4.md)
+  - [Section 5.5: Module loading from node_modules](/book_pages/chapter5/section5.5.md)
+  - [Section 5.6: Building your own modules](/book_pages/chapter5/section5.6.md)
+  - [Section 5.7: Invalidating the module cache](/book_pages/chapter5/section5.7.md)
 
 * Chapter 6: Exporting and Importing Module in node.js
 
