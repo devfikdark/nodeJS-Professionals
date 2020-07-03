@@ -102,13 +102,13 @@
 
 * Chapter 8: Cluster Module
 
-  - [Section 8.1: Hello World]
-  - [Section 8.2: Cluster Example]
+  - [Section 8.1: Hello World](/book_pages/chapter8/section8.1.md)
+  - [Section 8.2: Cluster Example](/book_pages/chapter8/section8.2.md)
 
 * Chapter 9: Readline
 
-  - [Section 9.1: Line-by-line file reading]
-  - [Section 9.2: Prompting user input via CLI]
+  - [Section 9.1: Line-by-line file reading](/book_pages/chapter9/section9.1.md)
+  - [Section 9.2: Prompting user input via CLI](/book_pages/chapter9/section9.2.md)
 
 * Chapter 10: package.json
 
