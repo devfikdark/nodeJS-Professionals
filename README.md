@@ -136,3 +136,10 @@
   - [Section 13.2: process.argv command line arguments](/book_pages/chapter13/section13.2.md)
   - [Section 13.3: Loading environment properties from a "property file"](/book_pages/chapter13/section13.3.md)
   - [Section 13.4: Using dierent Properties/Configuration for different environments like dev, qa, staging etc](/book_pages/chapter13/section13.4.md)
+
+  * Chapter 14: Callback to Promise
+
+    - [Section 14.1: Promisifying a callback](/book_pages/chapter14/section14.1.md)
+    - [Section 14.2: Manually promisifying a callback](/book_pages/chapter14/section14.2.md)
+    - [Section 14.3: setTimeout promisified](/book_pages/chapter14/section14.3.md)
+    
