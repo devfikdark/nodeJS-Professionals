@@ -124,4 +124,8 @@
   - [Section 11.2: Get the names of the events that are subscribed to](/book_pages/chapter11/section11.2.md)
   - [Section 11.3: HTTP Analytics through an Event Emitter](/book_pages/chapter11/section11.3.md)
   - [Section 11.4: Get the number of listeners registered to listen for a specific event](/book_pages/chapter11/section11.4.md)
-  
+
+* Chapter 12: Autoreload on changes
+
+  - [Section 12.1: Autoreload on source code changes using nodemon](/book_pages/chapter12/section12.1.md)
+  - [Section 12.2: Browsersync](/book_pages/chapter12/section12.2.md)
