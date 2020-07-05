@@ -117,3 +117,11 @@
   - [Section 10.3: Basic project definition](/book_pages/chapter10/section10.3.md)
   - [Section 10.4: Dependencies](/book_pages/chapter10/section10.4.md)
   - [Section 10.5: Extended project definition](/book_pages/chapter10/section10.5.md)
+
+* Chapter 11: Event Emitters
+
+  - [Section 11.1: Basics](/book_pages/chapter11/section11.1.md)
+  - [Section 11.2: Get the names of the events that are subscribed to](/book_pages/chapter11/section11.2.md)
+  - [Section 11.3: HTTP Analytics through an Event Emitter](/book_pages/chapter11/section11.3.md)
+  - [Section 11.4: Get the number of listeners registered to listen for a specific event](/book_pages/chapter11/section11.4.md)
+  
