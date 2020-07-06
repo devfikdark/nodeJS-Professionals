@@ -148,3 +148,9 @@
   - [Section 15.1: Spawning a new process to execute a command](/book_pages/chapter15/section15.1.md)
   - [Section 15.2: Spawning a shell to execute a command](/book_pages/chapter15/section15.2.md)
   - [Section 15.3: Spawning a process to run an executable](/book_pages/chapter15/section15.3.md)
+
+* Chapter 16: Exception handling
+
+  - [Section 16.1: Handling Exception In Node.Js](/book_pages/chapter16/section16.1.md)
+  - [Section 16.2: Unhanded Exception Management](/book_pages/chapter16/section16.2.md)
+  - [Section 16.3: Errors and Promises](/book_pages/chapter16/section16.3.md)
