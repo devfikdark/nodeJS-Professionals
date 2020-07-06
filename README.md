@@ -155,7 +155,11 @@
   - [Section 16.2: Unhanded Exception Management](/book_pages/chapter16/section16.2.md)
   - [Section 16.3: Errors and Promises](/book_pages/chapter16/section16.3.md)
 
-* 
+* Chapter 17: Keep a node application constantly running
+
+  - [Section 17.1: Use PM2 as a process manager](/book_pages/chapter17/section17.1.md)
+  - [Section 17.2: Running and stopping a Forever daemon](/book_pages/chapter17/section17.2.md)
+  - [Section 17.3: Continuous running with nohup](/book_pages/chapter17/section17.3.md)
 
 * Chapter 18: Uninstalling Node.js
 
