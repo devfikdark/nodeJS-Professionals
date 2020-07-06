@@ -154,3 +154,10 @@
   - [Section 16.1: Handling Exception In Node.Js](/book_pages/chapter16/section16.1.md)
   - [Section 16.2: Unhanded Exception Management](/book_pages/chapter16/section16.2.md)
   - [Section 16.3: Errors and Promises](/book_pages/chapter16/section16.3.md)
+
+* 
+
+* Chapter 18: Uninstalling Node.js
+
+  - [Section 18.1: Completely uninstall Node.js on Mac OSX](/book_pages/chapter18/section18.1.md)
+  - [Section 18.2: Uninstall Node.js on Windows](/book_pages/chapter18/section18.2.md)
