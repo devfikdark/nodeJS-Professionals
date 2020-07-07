@@ -165,3 +165,13 @@
 
   - [Section 18.1: Completely uninstall Node.js on Mac OSX](/book_pages/chapter18/section18.1.md)
   - [Section 18.2: Uninstall Node.js on Windows](/book_pages/chapter18/section18.2.md)
+
+* Chapter 19: nvm - Node Version Manager
+
+  - [Section 19.1: Install NVM](/book_pages/chapter19/section19.1.md)
+  - [Section 19.2: Check NVM version](/book_pages/chapter19/section19.2.md)
+  - [Section 19.3: Installing an specific Node version](/book_pages/chapter19/section19.3.md)
+  - [Section 19.4: Using an already installed node version](/book_pages/chapter19/section19.4.md)
+  - [Section 19.5: Install nvm on Mac OSX](/book_pages/chapter19/section19.5.md)
+  - [Section 19.6: Run any arbitrary command in a subshell with the desired version of node](/book_pages/chapter19/section19.6.md)
+  - [Section 19.7: Setting alias for node version](/book_pages/chapter19/section19.7.md)
