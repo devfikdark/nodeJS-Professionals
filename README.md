@@ -180,3 +180,12 @@
 
   - [Section 20.1: http server](/book_pages/chapter20/section20.1.md)
   - [Section 20.2: http client](/book_pages/chapter20/section20.2.md)
+
+* Chapter 21: Using Streams
+
+  - [Section 21.0: Streams Type](/book_pages/chapter21/section21.0.md)
+  - [Section 21.1: Read Data from TextFile with Streams](/book_pages/chapter21/section21.1.md)
+  - [Section 21.2: Piping streams](/book_pages/chapter21/section21.2.md)
+  - [Section 21.3: Creating your own readable/writable stream](/book_pages/chapter21/section21.3.md)
+  - [Section 21.4: Why Streams?](/book_pages/chapter21/section21.4.md)
+  
