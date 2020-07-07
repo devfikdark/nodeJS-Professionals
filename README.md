@@ -175,3 +175,8 @@
   - [Section 19.5: Install nvm on Mac OSX](/book_pages/chapter19/section19.5.md)
   - [Section 19.6: Run any arbitrary command in a subshell with the desired version of node](/book_pages/chapter19/section19.6.md)
   - [Section 19.7: Setting alias for node version](/book_pages/chapter19/section19.7.md)
+
+* Chapter 20: http
+
+  - [Section 20.1: http server](/book_pages/chapter20/section20.1.md)
+  - [Section 20.2: http client](/book_pages/chapter20/section20.2.md)
