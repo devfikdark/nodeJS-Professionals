@@ -189,3 +189,11 @@
   - [Section 21.3: Creating your own readable/writable stream](/book_pages/chapter21/section21.3.md)
   - [Section 21.4: Why Streams?](/book_pages/chapter21/section21.4.md)
   
+* Chapter 22: Deploying Node.js applications in production
+
+  - [Section 22.1: Setting NODE_ENV="production"](/book_pages/chapter22/section22.1.md)
+  - [Section 22.2: Manage app with process manager](/book_pages/chapter22/section22.2.md)
+  - [Section 22.3: Deployment using process manager](/book_pages/chapter22/section22.3.md)
+  - [Section 22.4: Deployment using PM2](/book_pages/chapter22/section22.4.md)
+  - [Section 22.5: Using dierent Properties/Configuration for different environments like dev, qa, staging etc](/book_pages/chapter22/section22.5.md)
+  - [Section 22.6: Taking advantage of clusters](/book_pages/chapter22/section22.6.md)
