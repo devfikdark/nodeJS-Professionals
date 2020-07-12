@@ -197,3 +197,11 @@
   - [Section 22.4: Deployment using PM2](/book_pages/chapter22/section22.4.md)
   - [Section 22.5: Using dierent Properties/Configuration for different environments like dev, qa, staging etc](/book_pages/chapter22/section22.5.md)
   - [Section 22.6: Taking advantage of clusters](/book_pages/chapter22/section22.6.md)
+
+* Chapter 23: Securing Node.js applications
+
+  - [Section 23.1: SSL/TLS in Node.js](/book_pages/chapter23/section23.1.md)
+  - [Section 23.2: Preventing Cross Site Request Forgery (CSRF)](/book_pages/chapter23/section23.2.md)
+  - [Section 23.3: Setting up an HTTPS server](/book_pages/chapter23/section23.3.md)
+  - [Section 23.4: Using HTTPS](/book_pages/chapter23/section23.4.md)
+  - [Section 23.5: Secure express.js 3 Application](/book_pages/chapter23/section23.5.md)
