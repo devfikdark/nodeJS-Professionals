@@ -205,3 +205,13 @@
   - [Section 23.3: Setting up an HTTPS server](/book_pages/chapter23/section23.3.md)
   - [Section 23.4: Using HTTPS](/book_pages/chapter23/section23.4.md)
   - [Section 23.5: Secure express.js 3 Application](/book_pages/chapter23/section23.5.md)
+
+* Chapter 24: Mongoose Library
+
+  - [Section 24.1: Connect to MongoDB Using Mongoose](/book_pages/chapter24/section24.1.md)
+  - [Section 24.2: Find Data in MongoDB Using Mongoose, Express.js Routes and $text Operator](/book_pages/chapter24/section24.2.md)
+  - [Section 24.3: Save Data to MongoDB using Mongoose and Express.js Routes](/book_pages/chapter24/section24.3.md)
+  - [Section 24.4: Find Data in MongoDB Using Mongoose and Express.js Routes](/book_pages/chapter24/section24.4.md)
+  - [Section 24.5: Useful Mongoose functions](/book_pages/chapter24/section24.5.md)
+  - [Section 24.6: Indexes in models](/book_pages/chapter24/section24.6.md)
+  - [Section 24.7: find data in mongodb using promises](/book_pages/chapter24/section24.7.md)
