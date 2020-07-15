@@ -1,4 +1,4 @@
-# Section 23.3: Setting up an HTTPS server
+## Section 23.3: Setting up an HTTPS server
 
 Once you have node.js installed on your system, just follow the procedure below to get 
 a basic web server running with support for both HTTP and HTTPS!

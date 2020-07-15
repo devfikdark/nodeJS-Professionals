@@ -1,4 +1,4 @@
-# Section 5.3: Folder as a module
+## Section 5.3: Folder as a module
 
 Modules can be split across many .js files in the same folder. An example in a my_module folder:
 
@@ -26,7 +26,7 @@ exports.f_two = require('./function_two.js');
 
 A module like this one is used by referring to it by the folder name:
 ```js
-var split_module = require('./my_module');
+let split_module = require('./my_module');
 ```
 
 Please note that if you required it by omitting ./ or any indication of a path to a 

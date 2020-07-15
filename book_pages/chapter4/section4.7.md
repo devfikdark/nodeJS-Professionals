@@ -1,4 +1,4 @@
-# Section 4.7: Determining the line count of a text file
+## Section 4.7: Determining the line count of a text file
 
 ```js
 let readline = require('readline');

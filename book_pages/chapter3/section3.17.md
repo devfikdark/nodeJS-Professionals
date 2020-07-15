@@ -1,4 +1,4 @@
-# Section 3.17: Error handling
+## Section 3.17: Error handling
 
 ```js
 app.get('/path/:id(\\d+)', function (req, res, next) { // please note: "next" is passed

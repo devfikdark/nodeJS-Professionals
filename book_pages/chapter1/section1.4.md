@@ -1,4 +1,4 @@
-# Section 1.4: Installing and Running Node.js
+## Section 1.4: Installing and Running Node.js
 
 ## To begin, install Node.js on your development computer.
 

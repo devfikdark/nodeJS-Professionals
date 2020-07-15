@@ -1,4 +1,4 @@
-# Section 23.5: Secure express.js 3 Application
+## Section 23.5: Secure express.js 3 Application
 
 The configuration to make a secure connection using express.js (Since version 3):
 

@@ -1,4 +1,4 @@
-# Section 22.3: Deployment using process manager
+## Section 22.3: Deployment using process manager
 
 Process manager is generally used in production to deploy a nodejs app. The main functions of a process 
 manager are restarting the server if it crashes, checking resource consumption, improving runtime 

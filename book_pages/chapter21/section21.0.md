@@ -1,4 +1,4 @@
-# Section 21.0: Streams Type
+## Section 21.0: Streams Type
 
 | Parameter | Definition |
 |:---------:|:----------:|

@@ -1,4 +1,4 @@
-# Section 2.7: Removing extraneous packages
+## Section 2.7: Removing extraneous packages
 
 To remove extraneous packages (packages that are installed but not in dependency list) run the following command:
 - `npm prune`

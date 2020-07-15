@@ -1,4 +1,4 @@
-# Section 3.7: Adding Middleware
+## Section 3.7: Adding Middleware
 
 Middleware functions are functions that have access to the `request object (req)`, 
 the `response object (res)`, and the next middleware function in the application’s 

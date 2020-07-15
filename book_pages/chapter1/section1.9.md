@@ -1,4 +1,4 @@
-# Section 1.9: Core modules
+## Section 1.9: Core modules
 
 Node.js is a Javascript engine (Google's V8 engine for Chrome, written in C++) that 
 allows to run Javascript outside the browser. While numerous libraries are available 

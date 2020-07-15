@@ -1,4 +1,4 @@
-# Section 24.6: Indexes in models
+## Section 24.6: Indexes in models
 
 MongoDB supports secondary indexes. In Mongoose, we define these indexes within our schema. Defining 
 indexes at schema level is necessary when we need to create compound indexes.

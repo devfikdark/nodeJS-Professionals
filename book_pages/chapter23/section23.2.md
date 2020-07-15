@@ -1,4 +1,4 @@
-# Section 23.2: Preventing Cross Site Request Forgery (CSRF)
+## Section 23.2: Preventing Cross Site Request Forgery (CSRF)
 
 **CSRF** is an attack which forces end user to execute unwanted actions on a web 
 application in which he/she is currently authenticated.

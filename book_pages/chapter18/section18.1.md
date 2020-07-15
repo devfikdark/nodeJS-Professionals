@@ -1,4 +1,4 @@
-# Section 18.1: Completely uninstall Node.js on Mac OSX
+## Section 18.1: Completely uninstall Node.js on Mac OSX
 
 In Terminal on your Mac operating system, enter the following **2 commands**:
 

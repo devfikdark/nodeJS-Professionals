@@ -1,4 +1,4 @@
-# Section 19.7: Setting alias for node version
+## Section 19.7: Setting alias for node version
 
 If you want to set some alias name to installed node version, do:
 - nvm alias <name> <version>

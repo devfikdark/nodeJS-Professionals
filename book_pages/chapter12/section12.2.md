@@ -1,4 +1,4 @@
-# Section 12.2: Browsersync
+## Section 12.2: Browsersync
 
 ### Installation
 To install Browsersync you'll first need to have Node.js and NPM installed. For more 

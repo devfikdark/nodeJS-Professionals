@@ -1,4 +1,4 @@
-# Section 1.3: Hello World with Express
+## Section 1.3: Hello World with Express
 
 ```js
 // Import the top-level function of express

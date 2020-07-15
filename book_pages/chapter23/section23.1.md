@@ -1,4 +1,4 @@
-# Section 23.1: SSL/TLS in Node.js
+## Section 23.1: SSL/TLS in Node.js
 
 ```js
 let https = require('https');

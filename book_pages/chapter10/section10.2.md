@@ -1,4 +1,4 @@
-# Section 10.2: Scripts
+## Section 10.2: Scripts
 
 You can define scripts that can be executed or are triggered before or after another script.
 ```json

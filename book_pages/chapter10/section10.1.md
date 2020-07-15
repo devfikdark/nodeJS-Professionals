@@ -1,4 +1,4 @@
-# Section 10.1: Exploring package.json
+## Section 10.1: Exploring package.json
 
 A `package.json` file, usually present in the project root, contains metadata about your app or module as 
 well as the list of dependencies to install from npm when running npm install . To initialize a package.

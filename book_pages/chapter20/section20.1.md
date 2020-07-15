@@ -1,18 +1,18 @@
-# Section 20.1: http server
+## Section 20.1: http server
 
 A basic example of **HTTP server**.
 
 Write following code in `http_server.js file`:
 
 ```js
-var http = require('http');
-var httpPort = 3000;
+let http = require('http');
+let httpPort = 3000;
 
 http.createServer(handler).listen(httpPort, start_callback);
 
 function handler(req, res) {
-  var clientIP = req.connection.remoteAddress;
-  var connectUsing = req.connection.encrypted ? 'SSL' : 'HTTP';
+  let clientIP = req.connection.remoteAddress;
+  let connectUsing = req.connection.encrypted ? 'SSL' : 'HTTP';
 
   console.log('Request received: '+ connectUsing + ' ' + req.method + ' ' + req.url); 
   console.log('Client IP: ' + clientIP);

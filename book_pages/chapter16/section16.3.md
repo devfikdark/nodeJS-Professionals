@@ -1,4 +1,4 @@
-# Section 16.3: Errors and Promises
+## Section 16.3: Errors and Promises
 
 Promises handle errors differently to synchronous or callback-driven code.
 ```js

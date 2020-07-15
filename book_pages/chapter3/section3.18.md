@@ -1,4 +1,4 @@
-# Section 3.18: Handling POST Requests
+## Section 3.18: Handling POST Requests
 
 Just like you handle get requests in Express with app.get method, you can use app.post 
 method to handle post requests. But before you can handle POST requests, you will 

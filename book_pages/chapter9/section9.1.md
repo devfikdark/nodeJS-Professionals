@@ -1,4 +1,4 @@
-# Section 9.1: Line-by-line file reading
+## Section 9.1: Line-by-line file reading
 
 ```js
 const fs = require('fs');

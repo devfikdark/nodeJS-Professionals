@@ -1,4 +1,4 @@
-# Section 4.14: Reading a file into a Buer using streams
+## Section 4.14: Reading a file into a Buer using streams
 
 While reading content from a file is already `asynchronous` using the `fs.readFile()` 
 method, sometimes we want to get the data in a Stream versus in a simple callback. 

@@ -1,4 +1,4 @@
-# Section 2.10: Scopes and repositories
+## Section 2.10: Scopes and repositories
 
 ### Set the repository for the scope "myscope"
 - `npm config set @myscope:registry http://registry.corporation.com`

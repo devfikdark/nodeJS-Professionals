@@ -1,4 +1,4 @@
-# Section 3.6: Serving static files
+## Section 3.6: Serving static files
 
 When building a webserver with Express it's often required to serve a combination 
 of dynamic content and static files.

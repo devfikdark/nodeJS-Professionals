@@ -1,4 +1,4 @@
-# Section 18.2: Uninstall Node.js on Windows
+## Section 18.2: Uninstall Node.js on Windows
 
 To **uninstall** Node.js on **Windows**, use Add or Remove Programs like this:
 - Open Add or Remove Programs from the start menu.

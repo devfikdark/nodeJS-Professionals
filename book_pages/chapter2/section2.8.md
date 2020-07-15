@@ -1,4 +1,4 @@
-# Section 2.8: Listing currently installed packages
+## Section 2.8: Listing currently installed packages
 
 ### To generate a list (tree view) of currently installed packages, use
 - `npm list`

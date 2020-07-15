@@ -1,4 +1,4 @@
-# Section 3.3: Modular express application
+## Section 3.3: Modular express application
 
 To make express web application modular use router factories:
 

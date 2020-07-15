@@ -1,4 +1,4 @@
-# Section 3.13: Custom middleware in Express
+## Section 3.13: Custom middleware in Express
 
 In Express, you can define middlewares that can be used for checking requests or 
 setting some headers in response.

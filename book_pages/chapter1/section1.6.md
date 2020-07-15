@@ -1,4 +1,4 @@
-# Section 1.6: Hello World basic routing
+## Section 1.6: Hello World basic routing
 
 ```js
 const http = require('http');
@@ -27,7 +27,7 @@ http.createServer(function (req, res) {
 
 ```js
 /**** 2nd way ****/
-var routes = {
+let routes = {
   '/': function index (request, response) {
     response.writeHead(200);
     response.end('Hello, World!');

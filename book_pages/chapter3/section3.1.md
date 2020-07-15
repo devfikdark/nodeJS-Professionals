@@ -1,4 +1,4 @@
-# Section 3.1: Getting Started
+## Section 3.1: Getting Started
 
 You will first need to create a directory, access it in your shell and install 
 Express using npm by running npm `install express --save` Create a file and name 

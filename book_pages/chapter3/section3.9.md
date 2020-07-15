@@ -1,4 +1,4 @@
-# Section 3.9: Getting info from the request
+## Section 3.9: Getting info from the request
 
 To get info from the requesting url (notice that req is the request object in the 
 handler function of routes). Consider this 
@@ -26,8 +26,8 @@ raw request body into usable format.
 
 **1st way**
 ```js
-var app = require('express')();
-var bodyParser = require('body-parser');
+let app = require('express')();
+let bodyParser = require('body-parser');
 app.use(bodyParser.json()); // for parsing application/json
 app.use(bodyParser.urlencoded({ extended: true })); // for parsing application/x-www-form-urlencoded
 ```

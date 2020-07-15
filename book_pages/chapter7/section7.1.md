@@ -1,4 +1,4 @@
-# Section 7.1: Global Mode
+## Section 7.1: Global Mode
 
 If you installed Node using the default directory, while in the global mode, NPM 
 installs packages into `/usr/local/lib/node_modules` . If you type the following in 

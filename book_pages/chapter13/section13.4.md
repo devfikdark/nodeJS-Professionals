@@ -1,4 +1,4 @@
-# Section 13.4: Using different Properties/Configuration for different environments like dev, qa, staging etc
+## Section 13.4: Using different Properties/Configuration for different environments like dev, qa, staging etc
 
 Suppose we have two property files for different environment.
 

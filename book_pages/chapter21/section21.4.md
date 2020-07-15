@@ -1,4 +1,4 @@
-# Section 21.4: Why Streams?
+## Section 21.4: Why Streams?
 
 Lets examine the following two examples for reading a file's contents: The first one, 
 which uses an async method for reading a file, and providing a callback function which 
@@ -15,8 +15,8 @@ fs.readFile(`${__dirname}/utils.js`, (err, data) => {
 
 And the second, which uses streams in order to read the file's content, piece by piece:
 ```js
-var fileStream = fs.createReadStream(`${__dirname}/file`);
-var fileContent = '';
+let fileStream = fs.createReadStream(`${__dirname}/file`);
+let fileContent = '';
 
 fileStream.on('data', data => {
   fileContent += data.toString();
@@ -54,7 +54,7 @@ the above in the callback fashion.
 
 - **1339 milliseconds**
 ```js
-var startTime = Date.now()
+let startTime = Date.now()
 
 s3.getObject({Bucket: 'some-bucket', Key: 'tweets.gz'}, (err, data) => {
 
@@ -66,7 +66,7 @@ s3.getObject({Bucket: 'some-bucket', Key: 'tweets.gz'}, (err, data) => {
       if (err) console.error(err)
 
       // here, the whole file was written to disk
-      var endTime = Date.now()
+      let endTime = Date.now()
       console.log(`${endTime - startTime} milliseconds`) // 1339 milliseconds
     })
   })

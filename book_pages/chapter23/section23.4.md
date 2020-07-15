@@ -1,4 +1,4 @@
-# Section 23.4: Using HTTPS
+## Section 23.4: Using HTTPS
 
 The minimal setup for an HTTPS server in Node.js would be something like this :
 ```js

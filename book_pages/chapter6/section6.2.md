@@ -1,4 +1,4 @@
-# Section 6.2: Using a simple module in node.js
+## Section 6.2: Using a simple module in node.js
 
 A module encapsulates related code into a single unit of code. When creating a module, 
 this can be interpreted as moving all related functions into a file. Now lets see an 
@@ -29,8 +29,8 @@ Run this file by going to your directory and typing: node app.js
 
 ```js
 //require('./path/to/module.js') node which module to load
-var printer = require('./printer');
-var animals = require('./animals');
+let printer = require('./printer');
+let animals = require('./animals');
 
 printer.printHelloWorld(); //prints "Hello World!!!"
 animals.lion(); //prints "ROAARR!!!"

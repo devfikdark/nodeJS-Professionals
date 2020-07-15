@@ -1,4 +1,4 @@
-# Section 24.4: Find Data in MongoDB Using Mongoose and Express.js Routes
+## Section 24.4: Find Data in MongoDB Using Mongoose and Express.js Routes
 
 **Setup**
 First, install the necessary packages with:

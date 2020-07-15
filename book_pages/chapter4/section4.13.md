@@ -1,9 +1,9 @@
-# Section 4.13: Deleting a file using unlink or unlinkSync
+## Section 4.13: Deleting a file using unlink or unlinkSync
 
 ### Delete a file asynchronously:
 
 ```js
-var fs = require('fs');
+let fs = require('fs');
 
 fs.unlink('/path/to/file.txt', function(err) {
   if (err) throw err;
@@ -15,7 +15,7 @@ fs.unlink('/path/to/file.txt', function(err) {
 ### Delete a file synchronously:
 
 ```js
-var fs = require('fs');
+let fs = require('fs');
 
 fs.unlinkSync('/path/to/file.txt');
 console.log('file deleted');

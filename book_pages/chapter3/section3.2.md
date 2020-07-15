@@ -1,4 +1,4 @@
-# Section 3.2: Basic routing
+## Section 3.2: Basic routing
 
 ```js
 // First create an express app:

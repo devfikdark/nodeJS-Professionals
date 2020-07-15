@@ -1,4 +1,4 @@
-# Section 19.3: Installing an specific Node version
+## Section 19.3: Installing an specific Node version
 
 - Listing available remote versions for installation
   - nvm ls-remote

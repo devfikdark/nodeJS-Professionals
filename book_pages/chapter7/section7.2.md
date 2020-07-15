@@ -1,4 +1,4 @@
-# Section 7.2: Loading modules
+## Section 7.2: Loading modules
 
 When we refer the module in the code, node first looks up the node_module folder 
 inside the referenced folder in required statement If the module name is not relative 
@@ -7,7 +7,7 @@ the current directory. For instance, if you do the following, Node will try to l
 for the file
 ```js
 // ./node_modules/myModule.js :
-var myModule = require('myModule.js');
+let myModule = require('myModule.js');
 ```
 If Node fails to find the file, it will look inside the parent folder called ../
 node_modules/myModule.js . If it fails again, it will try the parent folder and keep 
@@ -19,7 +19,7 @@ will search for the file.
 
 You can use the path for a folder to load a module like this:
 ```js
-var myModule = require('./myModuleDir');
+let myModule = require('./myModuleDir');
 ```
 
 If you do so, Node will search inside that folder. Node will presume this folder is a 

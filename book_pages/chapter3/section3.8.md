@@ -1,4 +1,4 @@
-# Section 3.8: Error Handling
+## Section 3.8: Error Handling
 
 ### Basic Error Handling
 
@@ -24,7 +24,7 @@ for example:
 // app.js
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
-  var err = new Error('Not Found');
+  let err = new Error('Not Found');
   err.status = 404;
   //pass error to the next matching route.
   next(err);

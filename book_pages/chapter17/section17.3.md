@@ -1,6 +1,6 @@
-# Section 17.3: Continuous running with nohup
+## Section 17.3: Continuous running with nohup
 
-## An alternative to forever on Linux is nohup.
+**An alternative to forever on Linux is nohup.**
 
 ### To start a nohup instance
 - cd to the location of app.js or www folder

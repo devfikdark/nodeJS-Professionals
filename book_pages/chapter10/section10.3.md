@@ -1,4 +1,4 @@
-# Section 10.3: Basic project definition
+## Section 10.3: Basic project definition
 
 ```json
 {

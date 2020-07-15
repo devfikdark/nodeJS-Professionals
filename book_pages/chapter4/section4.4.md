@@ -1,4 +1,4 @@
-# Section 4.4: Reading from a file synchronously
+## Section 4.4: Reading from a file synchronously
 
 For any file operations, you will need the filesystem module:
 ```js

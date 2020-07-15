@@ -1,4 +1,4 @@
-# Section 1.7: Hello World in the REPL
+## Section 1.7: Hello World in the REPL
 
 When called without arguments, Node.js starts a REPL (Read-Eval-Print-Loop) also known as the `Node shel`.
 

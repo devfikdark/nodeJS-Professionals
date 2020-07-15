@@ -1,4 +1,4 @@
-# Section 3.15: Hello World
+## Section 3.15: Hello World
 
 Here we create a basic hello world server using Express. Routes:
 - '/'

@@ -1,4 +1,4 @@
-# Section 22.1: Setting NODE_ENV="production"
+## Section 22.1: Setting NODE_ENV="production"
 
 Production deployments will vary in many ways, but a standard convention when deploying in production is 
 to define an environment variable called NODE_ENV and set its value to "**production**". Runtime flags

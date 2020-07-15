@@ -1,4 +1,4 @@
-# Section 11.2: Get the names of the events that are subscribed to
+## Section 11.2: Get the names of the events that are subscribed to
 
 The function `EventEmitter.eventNames()` will return an array containing the names of the events currently
 subscribed to.

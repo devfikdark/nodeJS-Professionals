@@ -1,4 +1,4 @@
-# Section 10.5: Extended project definition
+## Section 10.5: Extended project definition
 
 Some of the additional attributes are parsed by the npm website like repository , bugs 
 or homepage and shown in the infobox for this packages

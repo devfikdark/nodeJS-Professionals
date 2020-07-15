@@ -1,4 +1,4 @@
-# Section 1.8: Deploying your application online
+## Section 1.8: Deploying your application online
 
 When you deploy your app to a (Node.js-specific) hosted environment, this environment 
 usually offers a `PORT` - `environment variable` that you can use to run your server 

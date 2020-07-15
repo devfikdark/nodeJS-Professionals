@@ -1,4 +1,4 @@
-# Section 2.3: Setting up a package configuration 
+## Section 2.3: Setting up a package configuration 
 
 Node.js package configurations are contained in a file called package.json that you 
 can find at the root of each project. You can setup a brand new configuration file by 

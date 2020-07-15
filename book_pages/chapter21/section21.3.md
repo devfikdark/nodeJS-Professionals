@@ -1,11 +1,11 @@
-# Section 21.3: Creating your own readable/writable stream
+## Section 21.3: Creating your own readable/writable stream
 
 We will see stream objects being returned by modules like fs etc but what if we want 
 to create our own streamable object.
 To create Stream object we need to use the stream module provided by NodeJs
 ```js
-var fs = require("fs");
-var stream = require("stream").Writable;
+let fs = require("fs");
+let stream = require("stream").Writable;
 
 /*
 * Implementing the write function in writable stream class.
@@ -16,7 +16,7 @@ stream.prototype._write = function(chunk, data){
   console.log(data);
 }
 
-var customStream = new stream();
+let customStream = new stream();
 
 fs.createReadStream("am1.js").pipe(customStream);
 

@@ -1,4 +1,4 @@
-# Section 3.16: Using middleware and the next callback
+## Section 3.16: Using middleware and the next callback
 
 Express passes a next callback to every route handler and middleware function that 
 can be used to break logic for single routes across multiple handlers. Calling 

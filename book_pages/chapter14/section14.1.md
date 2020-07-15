@@ -1,4 +1,4 @@
-# Section 14.1: Promisifying a callback
+## Section 14.1: Promisifying a callback
 
 ### Callback-based:
 ```js

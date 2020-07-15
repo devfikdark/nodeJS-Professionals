@@ -1,4 +1,4 @@
-# Section 9.2: Prompting user input via CLI
+## Section 9.2: Prompting user input via CLI
 
 ```js
 const readline = require('readline');

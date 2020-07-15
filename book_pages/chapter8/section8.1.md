@@ -1,4 +1,4 @@
-# Section 8.1: Hello World
+## Section 8.1: Hello World
 
 **cluster.js**
 

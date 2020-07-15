@@ -1,4 +1,4 @@
-# Section 22.2: Manage app with process manager
+## Section 22.2: Manage app with process manager
 
 It's a good practice to run NodeJS apps controlled by process managers. Process manager helps to keep 
 application alive forever, restart on failure, reload without downtime and simplifies administrating. 

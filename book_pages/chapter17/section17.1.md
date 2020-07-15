@@ -1,4 +1,4 @@
-# Section 17.1: Use PM2 as a process manager
+## Section 17.1: Use PM2 as a process manager
 
 PM2 lets you run your nodejs scripts forever. In the event that your application 
 crashes, PM2 will also restart it for you.

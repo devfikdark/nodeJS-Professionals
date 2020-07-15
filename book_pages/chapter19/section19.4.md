@@ -1,4 +1,4 @@
-# Section 19.4: Using an already installed node version
+## Section 19.4: Using an already installed node version
 
 - To list available local versions of node through NVM:
   - nvm ls

@@ -1,4 +1,4 @@
-# Section 2.5: Basic semantic versioning
+## Section 2.5: Basic semantic versioning
 
 Before publishing a package you have to version it. npm supports semantic versioning, this means there are patch, minor and major releases.
 

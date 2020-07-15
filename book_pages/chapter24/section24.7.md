@@ -1,4 +1,4 @@
-# Section 24.7: find data in mongodb using promises
+## Section 24.7: find data in mongodb using promises
 
 **Setup**
 

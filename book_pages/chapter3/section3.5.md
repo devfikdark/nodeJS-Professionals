@@ -1,4 +1,4 @@
-# Section 3.5: JSON API with ExpressJS
+## Section 3.5: JSON API with ExpressJS
 
 ```js
 let express = require('express');

@@ -1,20 +1,20 @@
-# Section 20.2: http client
+## Section 20.2: http client
 
 a basic example for **http client**:
 
 Write the follwing code in `http_client.js file`:
 
 ```js
-var http = require('http');
+let http = require('http');
 
-var options = {
+let options = {
   hostname: '127.0.0.1',
   port: 80,
   path: '/',
   method: 'GET'
 };
 
-var req = http.request(options, function(res) {
+let req = http.request(options, function(res) {
   console.log('STATUS: ' + res.statusCode);
   console.log('HEADERS: ' + JSON.stringify(res.headers));
 

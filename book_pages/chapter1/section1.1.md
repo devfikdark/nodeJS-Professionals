@@ -1,4 +1,4 @@
-# Section 1.1: Hello World HTTP server
+## Section 1.1: Hello World HTTP server
 
 ```js
 let http = require('http');

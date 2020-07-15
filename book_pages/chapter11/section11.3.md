@@ -1,4 +1,4 @@
-# Section 11.3: HTTP Analytics through an Event Emitter
+## Section 11.3: HTTP Analytics through an Event Emitter
 
 ### In the HTTP server code (e.g. server.js ):
 

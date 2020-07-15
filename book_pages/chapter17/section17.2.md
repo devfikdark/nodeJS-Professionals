@@ -1,4 +1,4 @@
-# Section 17.2: Running and stopping a Forever daemon
+## Section 17.2: Running and stopping a Forever daemon
 
 ### To start the process:
 

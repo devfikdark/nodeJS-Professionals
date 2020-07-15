@@ -1,4 +1,4 @@
-# Section 5.1: Creating a hello-world.js module
+## Section 5.1: Creating a hello-world.js module
 
 Node provides the module.exports interface to expose functions and variables to other 
 files. The most simple way to do so is to export only one object (function or 

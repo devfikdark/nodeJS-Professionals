@@ -1,4 +1,4 @@
-# Section 16.2: Unhanded Exception Management
+## Section 16.2: Unhanded Exception Management
 
 Because Node.js runs on a single process uncaught exceptions are an issue to be aware 
 of when developing applications. Silently Handling Exceptions Most of the people let 

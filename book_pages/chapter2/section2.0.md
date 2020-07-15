@@ -1,4 +1,4 @@
-# Section 2.0: Basic
+## Section 2.0: Basic
 
 | **Parameter** | **Example** |
 |:-------------:|:-----------:|

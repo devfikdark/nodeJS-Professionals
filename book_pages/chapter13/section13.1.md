@@ -1,4 +1,4 @@
-# Section 13.1: Accessing environment variables
+## Section 13.1: Accessing environment variables
 
 The process.env property returns an object containing the user environment.
 It returns an object like this one :

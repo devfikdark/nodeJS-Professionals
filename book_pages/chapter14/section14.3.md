@@ -1,4 +1,4 @@
-# Section 14.3: setTimeout promisified
+## Section 14.3: setTimeout promisified
 
 ```js
 function wait(ms) {

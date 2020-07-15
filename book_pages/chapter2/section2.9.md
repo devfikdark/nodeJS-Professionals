@@ -1,4 +1,4 @@
-# Section 2.9: Updating npm and packages
+## Section 2.9: Updating npm and packages
 
 Since npm itself is a `Node.js module`, it can be updated using itself.
 - If OS is Windows must be running command prompt as Admin

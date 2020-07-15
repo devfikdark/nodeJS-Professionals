@@ -1,4 +1,4 @@
-# Section 2.12: Locking modules to specific versions
+## Section 2.12: Locking modules to specific versions
 
 By default, npm installs the latest available version of modules according to each 
 dependencies' semantic version. This can be problematic if a module author doesn't 

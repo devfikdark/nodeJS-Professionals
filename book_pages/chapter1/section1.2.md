@@ -1,11 +1,11 @@
-# Section 1.2: Hello World command line
+## Section 1.2: Hello World command line
 
 ```js
 let username = process.argv[2];
 
 if (!username) {
   // Extract the filename
-  var appName = process.argv[1].split(require('path').sep).pop();
+  let appName = process.argv[1].split(require('path').sep).pop();
   console.error('Missing argument! Example: %s YOUR_NAME', appName);
 
   // An error will stop the

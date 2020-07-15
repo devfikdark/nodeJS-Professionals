@@ -1,4 +1,4 @@
-# Section 8.2: Cluster Example
+## Section 8.2: Cluster Example
 
 A single instance of Node.js runs in a single thread. To take advantage of multi-core 
 systems, application can be launched in a `cluster of Node.js processes` to handle the 

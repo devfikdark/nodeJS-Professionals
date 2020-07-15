@@ -1,4 +1,4 @@
-# Section 4.5: Check Permissions of a File or Directory
+## Section 4.5: Check Permissions of a File or Directory
 
 `fs.access()` determines whether a path exists and what permissions a user has to the 
 file or directory at that path. `fs.access` doesn't return a result rather, if it 
@@ -15,7 +15,7 @@ The permission modes are available as a property on the fs object, `fs.constants
 ```js
 const fs = require('fs');
 
-var path = '/path/to/check';
+let path = '/path/to/check';
 
 // checks execute permission
 fs.access(path, fs.constants.X_OK, (err) => {

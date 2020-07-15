@@ -1,4 +1,4 @@
-# Section 16.1: Handling Exception In Node.Js
+## Section 16.1: Handling Exception In Node.Js
 
 ### Node.js has 3 basic ways to handle exceptions/errors:
 

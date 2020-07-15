@@ -1,4 +1,4 @@
-# Section 2.11: Linking projects for faster debugging and development
+## Section 2.11: Linking projects for faster debugging and development
 
 Building project dependencies can sometimes be a tedious task. Instead of publishing a package version to NPM and installing the dependency to test the changes, use npm link. npm link creates a symlink so the latest code can be tested in a local environment. This makes testing global tools and project dependencies easier by allowing the latest code run before making a published version.
 

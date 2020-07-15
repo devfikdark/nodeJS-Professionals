@@ -1,4 +1,4 @@
-# Section 4.10: Cloning a file using streams
+## Section 4.10: Cloning a file using streams
 
 This program illustrates how one can `copy a file` using readable and writable streams 
 using the `createReadStream()` , and `createWriteStream()` functions provided by the 
@@ -6,13 +6,13 @@ file system module.
 
 ```js
 //Require the file System module
-var fs = require('fs');
+let fs = require('fs');
 /*
 Create readable stream to file in current directory (__dirname) named 'node.txt'
 Use utf8 encoding
 Read the data in 16-kilobyte chunks
 */
-var readable = fs.createReadStream(
+let readable = fs.createReadStream(
   __dirname + '/text.txt', 
   { 
     encoding: 'utf8', 
@@ -21,7 +21,7 @@ var readable = fs.createReadStream(
 );
 
 // create writable stream
-var writable = fs.createWriteStream(
+let writable = fs.createWriteStream(
   __dirname + '/nodeCopy.txt'
 );
 

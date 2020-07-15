@@ -1,4 +1,4 @@
-# Section 22.5: Using dierent Properties/Configuration for different environments like dev, qa, staging etc
+## Section 22.5: Using dierent Properties/Configuration for different environments like dev, qa, staging etc
 
 Large scale applications often need different properties when running on different 
 environments. we can achieve this by passing arguments to NodeJs application and using 
@@ -31,10 +31,10 @@ Following code in application will export respective property file which we want
 use.
 ```js
 process.argv.forEach(function (val) {
-  var arg = val.split("=");
+  let arg = val.split("=");
   if (arg.length > 0) {
     if (arg[0] === 'env') {
-      var env = require('./' + arg[1] + '.json');
+      let env = require('./' + arg[1] + '.json');
       exports.prop = env;
     }
   }

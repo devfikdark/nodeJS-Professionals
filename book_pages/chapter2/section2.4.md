@@ -1,4 +1,4 @@
-# Section 2.4: Running scripts
+## Section 2.4: Running scripts
 
 ```json
 {

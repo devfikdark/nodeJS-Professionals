@@ -1,4 +1,4 @@
-# Section 2.13: Setting up for globally installed packages
+## Section 2.13: Setting up for globally installed packages
 
 You can use npm install -g to install a package "globally." This is typically done to install an executable that you can add to your path to run. For example:
 - `npm install -g gulp-cli`

@@ -1,4 +1,4 @@
-# Section 2.1: Installing packages
+## Section 2.1: Installing packages
 
 Note that in order to install packages, you must have NPM installed.
 The recommended way to install NPM is to use one of the installers from the Node.js 

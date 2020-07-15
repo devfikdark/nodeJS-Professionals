@@ -1,4 +1,4 @@
-# Section 3.4: Using a Template Engine
+## Section 3.4: Using a Template Engine
 
 The following code will setup Jade as template engine. (Note: Jade has been 
 renamed to pug as of December 2015.)
@@ -46,7 +46,7 @@ For instance, if you have supplies array in your server code you can loop over i
 ```html
 <h1><%= title %></h1>
   <ul>
-<% for(var i=0; i<supplies.length; i++) { %>
+<% for(let i=0; i<supplies.length; i++) { %>
   <li>
     <a href='supplies/<%= supplies[i] %>'>
       <%= supplies[i] %>

@@ -1,4 +1,4 @@
-# Section 14.2: Manually promisifying a callback
+## Section 14.2: Manually promisifying a callback
 
 Sometimes it might be necessary to manually promisify a callback function. This could be for a case where 
 the callback does not follow the standard `error-first` format or if additional logic is needed to 

@@ -1,4 +1,4 @@
-# Section 4.3: Copying files by piping streams
+## Section 4.3: Copying files by piping streams
 
 This program copies a file using readable and a writable stream with the pipe() function provided by the stream
 class
@@ -11,7 +11,7 @@ Create readable stream to file in current directory named 'text.txt'
 Use utf8 encoding
 Read the data in 16-kilobyte chunks
 */
-var readable = fs.createReadStream(
+let readable = fs.createReadStream(
   __dirname + '/text.txt', 
   { 
     encoding: 'utf8', 
@@ -19,7 +19,7 @@ var readable = fs.createReadStream(
   }
 );
 // create writable stream
-var writable = fs.createWriteStream(__dirname + '/output.txt');
+let writable = fs.createWriteStream(__dirname + '/output.txt');
 // use pipe to copy readable to writable
 readable.pipe(writable);
 ```

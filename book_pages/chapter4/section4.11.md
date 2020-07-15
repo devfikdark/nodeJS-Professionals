@@ -1,4 +1,4 @@
-# Section 4.11: Writing to a file using writeFile or writeFileSync
+## Section 4.11: Writing to a file using writeFile or writeFileSync
 
 ```js
 let fs = require('fs');
@@ -15,7 +15,7 @@ fs.writeFile('text.txt', 'Hello Morol!', function(err) {
 
 // Save binary data to a file called "binary.txt" in the current
 // directory. Again, the operation will be completed in background.
-var buffer = new Buffer([ 0x48, 0x65, 0x6c, 0x6c, 0x6f ]);
+let buffer = new Buffer([ 0x48, 0x65, 0x6c, 0x6c, 0x6f ]);
 fs.writeFile('binary.txt', buffer, function(err) {
   // If an error occurred, show it and return
   if(err) return console.error(err);

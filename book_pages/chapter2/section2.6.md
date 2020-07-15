@@ -1,4 +1,4 @@
-# Section 2.6: Publishing a package
+## Section 2.6: Publishing a package
 
 First, make sure that you have configured your package (as said in Setting up a package configuration​ ). Then, you have to be logged in to npmjs.
 

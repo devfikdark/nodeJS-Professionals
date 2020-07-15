@@ -215,3 +215,12 @@
   - [Section 24.5: Useful Mongoose functions](/book_pages/chapter24/section24.5.md)
   - [Section 24.6: Indexes in models](/book_pages/chapter24/section24.6.md)
   - [Section 24.7: find data in mongodb using promises](/book_pages/chapter24/section24.7.md)
+
+* Chapter 25: async.js
+
+  - [Section 25.1: Parallel : multi-tasking](/book_pages/chapter25/section25.1.md)
+  - [Section 25.2: async.each(To handle array of data effciently)](/book_pages/chapter25/section25.2.md)
+  - [Section 25.3: Series : independent mono-tasking](/book_pages/chapter25/section25.3.md)
+  - [Section 25.4: Waterfall : dependent mono-tasking](/book_pages/chapter25/section25.4.md)
+  - [Section 25.5: async.times(To handle for loop in better way)](/book_pages/chapter25/section25.5.md)
+  - [Section 25.6: async.series(To handle events one by one)](/book_pages/chapter25/section25.6.md)

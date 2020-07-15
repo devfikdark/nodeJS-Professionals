@@ -1,4 +1,4 @@
-# Section 24.3: Save Data to MongoDB using Mongoose and Express.js Routes
+## Section 24.3: Save Data to MongoDB using Mongoose and Express.js Routes
 
 **Setup**
 

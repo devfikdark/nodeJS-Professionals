@@ -1,12 +1,12 @@
-# Section 3.10: Error handling in Express
+## Section 3.10: Error handling in Express
 
 In Express, you can define unified error handler for handling errors occurred in 
 application. Define then handler at the end of all routes and logic code.
 
 ```js
 // Example
-var express = require('express');
-var app = express();
+let express = require('express');
+let app = express();
 
 // GET /names/Morol
 app.get('/names/:name', function(req, res, next){

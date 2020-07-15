@@ -1,4 +1,4 @@
-# Section 11.1: Basics
+## Section 11.1: Basics
 
 Event Emitters are built into Node, and are for pub-sub, a pattern where a publisher will emit events, 
 which subscribers can listen and react to. In Node jargon, publishers are called Event Emitters, and they 

@@ -1,6 +1,6 @@
-# Section 19.5: Install nvm on Mac OSX
+## Section 19.5: Install nvm on Mac OSX
 
-## INSTALLATION PROCESS
+### INSTALLATION PROCESS
 
 You can install Node Version Manager using git, curl or wget. You run these commands in Terminal on Mac OSX.
 

@@ -1,4 +1,4 @@
-# Section 12.1: Autoreload on source code changes using nodemon
+## Section 12.1: Autoreload on source code changes using nodemon
 
 The nodemon package makes it possible to automatically reload your program when you 
 modify any file in the source code.

@@ -1,4 +1,4 @@
-# Section 3.12: Setting cookies with cookie-parser
+## Section 3.12: Setting cookies with cookie-parser
 
 The following is an example for setting and reading cookies using the cookie-parser 
 module:

@@ -1,4 +1,4 @@
-# Section 2.2: Uninstalling packages
+## Section 2.2: Uninstalling packages
 
 ### To uninstall one or more locally installed packages, use:
 

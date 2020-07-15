@@ -1,4 +1,4 @@
-# Section 24.2: Find Data in MongoDB Using Mongoose, Express.js Routes and $text Operator
+## Section 24.2: Find Data in MongoDB Using Mongoose, Express.js Routes and $text Operator
 
 **Setup**
 First, install the necessary packages with:

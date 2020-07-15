@@ -1,4 +1,4 @@
-# Section 3.14: Named routes in Django-style
+## Section 3.14: Named routes in Django-style
 
 One big problem is that valuable named routes is not supported by Express out of the 
 box. Solution is to install supported third-party package, for 
@@ -9,7 +9,7 @@ example express-reverse:
 
 ### Plug it in your project:
 ```js
-var app = require('express')();
+let app = require('express')();
 require('express-reverse')(app);
 
 // Then use it like:

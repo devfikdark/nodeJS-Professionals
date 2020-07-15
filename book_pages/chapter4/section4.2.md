@@ -1,4 +1,4 @@
-# Section 4.2: Listing Directory Contents with readdir or readdirSync
+## Section 4.2: Listing Directory Contents with readdir or readdirSync
 
 ```js
 const fs = require('fs');
@@ -36,7 +36,7 @@ try {
 // A callback is passed to the generator function because it is required by
 // the 'readdir' method
 function run(gen) {
-  var iter = gen((err, data) => {
+  let iter = gen((err, data) => {
     if (err) { iter.throw(err); }
     return iter.next(data);
   });
@@ -48,7 +48,7 @@ const dirPath = '/usr/local/bin';
 // Execute the generator function
 run(function* (resume) {
   // Emit the list of files in the directory from the generator
-  var contents = yield fs.readdir(dirPath, resume);
+  let contents = yield fs.readdir(dirPath, resume);
   console.log(contents); // [ 'create-react-app', 'nodemon' ]
 });
 ```

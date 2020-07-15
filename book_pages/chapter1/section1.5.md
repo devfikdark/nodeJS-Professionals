@@ -1,4 +1,4 @@
- # Section 1.5: Debugging Your NodeJS Application
+ ## Section 1.5: Debugging Your NodeJS Application
 
 ### You can use the node-inspector. 
 

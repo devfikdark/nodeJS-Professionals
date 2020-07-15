@@ -1,4 +1,4 @@
-# Section 3.11: Hook: How to execute code before any req and after any res
+## Section 3.11: Hook: How to execute code before any req and after any res
 
 `app.use()` and middleware can be used for "before" and a combination of the close 
 and finish events can be used for "after".

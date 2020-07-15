@@ -1,4 +1,4 @@
-# Section 11.4: Get the number of listeners registered to listen for a specific event
+## Section 11.4: Get the number of listeners registered to listen for a specific event
 
 The function `Emitter.listenerCount(eventName)` will `return the number of listeners` that are currently 
 listening for the event provided as argument

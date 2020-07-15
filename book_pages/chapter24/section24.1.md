@@ -1,4 +1,4 @@
-# Section 24.1: Connect to MongoDB Using Mongoose
+## Section 24.1: Connect to MongoDB Using Mongoose
 
 First, install Mongoose with:
 - npm install mongoose

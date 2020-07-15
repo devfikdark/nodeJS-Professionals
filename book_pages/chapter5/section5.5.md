@@ -1,4 +1,4 @@
-# Section 5.5: Module loading from node_modules
+## Section 5.5: Module loading from node_modules
 
 Modules can be require d without using relative paths by putting them in a special 
 directory called node_modules . For example, to require a module called foo from a 

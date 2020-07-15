@@ -1,4 +1,4 @@
-# Section 24.5: Useful Mongoose functions
+## Section 24.5: Useful Mongoose functions
 
 Mongoose contains some built in functions that build on the standard **find()**.
 ```js
