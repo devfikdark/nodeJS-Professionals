@@ -224,3 +224,8 @@
   - [Section 25.4: Waterfall : dependent mono-tasking](/book_pages/chapter25/section25.4.md)
   - [Section 25.5: async.times(To handle for loop in better way)](/book_pages/chapter25/section25.5.md)
   - [Section 25.6: async.series(To handle events one by one)](/book_pages/chapter25/section25.6.md)
+
+* Chapter 26: File upload
+
+  - [Section 26.1: Single File Upload using multer](/book_pages/chapter26/section26.1.md)
+  - [Section 26.2: Using formidable module](/book_pages/chapter26/section26.2.md)
