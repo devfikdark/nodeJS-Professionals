@@ -229,3 +229,7 @@
 
   - [Section 26.1: Single File Upload using multer](/book_pages/chapter26/section26.1.md)
   - [Section 26.2: Using formidable module](/book_pages/chapter26/section26.2.md)
+
+* Chapter 27: Socket.io communication
+
+  - [Section 27.1: "Hello world!" with socket messages](/book_pages/chapter27/section27.1.md)
