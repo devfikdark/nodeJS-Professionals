@@ -254,3 +254,7 @@
 * Chapter 30: Simple REST based CRUD API
 
   - [Section 30.1: REST API for CRUD in Express 3+](/book_pages/chapter30/section30.1.md)
+
+* Chapter 31: Template frameworks
+
+  - [Section 31.1: Nunjucks](/book_pages/chapter31/section31.1.md)
