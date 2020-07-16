@@ -250,3 +250,7 @@
 * Chapter 29: Handling POST request in Node.js
 
   - [Section 29.1: Sample node.js server that just handles POST requests](/book_pages/chapter29/section29.1.md)
+
+* Chapter 30: Simple REST based CRUD API
+
+  - [Section 30.1: REST API for CRUD in Express 3+](/book_pages/chapter30/section30.1.md)
