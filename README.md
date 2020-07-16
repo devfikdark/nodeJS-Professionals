@@ -246,3 +246,7 @@
   - [Section 28.7: Delete a document](/book_pages/chapter28/section28.7.md)
   - [Section 28.8: Delete multiple documents](/book_pages/chapter28/section28.8.md)
 </details>  
+
+* Chapter 29: Handling POST request in Node.js
+
+  - [Section 29.1: Sample node.js server that just handles POST requests](/book_pages/chapter29/section29.1.md)
