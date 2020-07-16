@@ -233,3 +233,16 @@
 * Chapter 27: Socket.io communication
 
   - [Section 27.1: "Hello world!" with socket messages](/book_pages/chapter27/section27.1.md)
+
+* <details>
+  <summary>Chapter 28: Mongodb integration</summary>
+
+  - [Section 28.1: Simple connect](/book_pages/chapter28/section28.1.md)
+  - [Section 28.2: Simple connect, using promises](/book_pages/chapter28/section28.2.md)
+  - [Section 28.3: Connect to MongoDB](/book_pages/chapter28/section28.3.md)
+  - [Section 28.4: Insert a document](/book_pages/chapter28/section28.4.md)
+  - [Section 28.5: Read a collection](/book_pages/chapter28/section28.5.md)
+  - [Section 28.6: Update a document](/book_pages/chapter28/section28.6.md)
+  - [Section 28.7: Delete a document](/book_pages/chapter28/section28.7.md)
+  - [Section 28.8: Delete multiple documents](/book_pages/chapter28/section28.8.md)
+</details>  
