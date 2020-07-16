@@ -258,3 +258,7 @@
 * Chapter 31: Template frameworks
 
   - [Section 31.1: Nunjucks](/book_pages/chapter31/section31.1.md)
+
+* Chapter 32: Node.js Architecture & Inner Workings  
+
+  - [Section 32.1: Node.js - under the hood & Node.js - in motion](/book_pages/chapter32/section32.1.md)
