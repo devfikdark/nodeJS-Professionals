@@ -262,3 +262,34 @@
 * Chapter 32: Node.js Architecture & Inner Workings  
 
   - [Section 32.1: Node.js - under the hood & Node.js - in motion](/book_pages/chapter32/section32.1.md)
+
+* Chapter 33: Debugging Node.js application
+
+  - [Section 33.1: Core node.js debugger and node inspector](/book_pages/chapter33/section33.1.md)
+
+* Chapter 34: Node server without framework  
+
+  - [Section 34.1: Framework-less node server](/book_pages/chapter34/section34.1.md)
+  - [Section 34.2: Overcoming CORS Issues](/book_pages/chapter34/section34.2.md)
+
+* Chapter 35: Node.JS with ES6
+
+  - [Section 35.1: Node ES6 Support and creating a project with Babel](/book_pages/chapter35/section35.1.md)
+  - [Section 35.2: Use JS es6 on your NodeJS app](/book_pages/chapter35/section35.2.md)
+
+* Chapter 36: Interacting with Console
+
+  - [Section 36.1: Logging](/book_pages/chapter36/section36.1.md)
+
+* Chapter 37: Cassandra Integration
+
+  - [Section 37.1: Hello world](/book_pages/chapter37/section37.1.md)
+
+* Chapter 38: Creating API's with Node.js
+
+  - [Section 38.1: GET api using Express](/book_pages/chapter38/section38.1.md)
+  - [Section 38.2: POST api using Express](/book_pages/chapter38/section38.2.md)
+
+* Chapter 39: Graceful Shutdown
+
+  - [Section 39.1: Graceful Shutdown - SIGTERM](/book_pages/chapter39/section39.1.md)
