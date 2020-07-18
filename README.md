@@ -293,3 +293,32 @@
 * Chapter 39: Graceful Shutdown
 
   - [Section 39.1: Graceful Shutdown - SIGTERM](/book_pages/chapter39/section39.1.md)
+
+* Chapter 40: Using IISNode to host Node.js Web Apps in IIS
+
+  - [Section 40.1: Using an IIS Virtual Directory or Nested Application via <appSettings>](/book_pages/chapter40/section40.1.md)
+  - [Section 40.2: Getting Started](/book_pages/chapter40/section40.2.md)
+  - [Section 40.3: Basic Hello World Example using Express](/book_pages/chapter40/section40.3.md)
+  - [Section 40.4: Using Socket.io with IISNode](/book_pages/chapter40/section40.4.md)
+
+* Chapter 41: CLI
+
+  - [Section 41.1: Command Line Options](/book_pages/chapter41/section41.1.md)
+
+* Chapter 42: NodeJS Frameworks
+
+  - [Section 42.1: Web Server Frameworks](/book_pages/chapter42/section42.1.md)
+  - [Section 42.2: Command Line Interface Frameworks](/book_pages/chapter42/section42.2.md)
+
+* Chapter 43: grunt
+
+  - [Section 43.1: Introduction To GruntJs](/book_pages/chapter43/section43.1.md)
+  - [Section 43.2: Installing gruntplugins](/book_pages/chapter43/section43.2.md)
+
+* Chapter 44: Using WebSocket's with Node.JS
+
+  - [Section 44.1 to 44.4](/book_pages/chapter44/section44.md)
+
+* Chapter 45: metalsmith
+
+  - [Section 45.1: Build a simple blog](/book_pages/chapter45/section45.1.md)
