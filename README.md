@@ -322,3 +322,24 @@
 * Chapter 45: metalsmith
 
   - [Section 45.1: Build a simple blog](/book_pages/chapter45/section45.1.md)
+
+* Chapter 46: Parsing command line arguments 
+
+  - [Section 46.1: Passing action (verb) and values](/book_pages/chapter46/section46.1.md)
+  - [Section 46.2: Passing boolean switches](/book_pages/chapter46/section46.2.md)
+
+* Chapter 47: Client-server communication
+
+  - [Section 47.1: /w Express, jQuery and Jade](/book_pages/chapter47/section47.1.md)
+
+* Chapter 48: Node.js Design Fundamental
+
+  - [Section 48.1: The Node.js philosophy](/book_pages/chapter48/section48.1.md)
+
+* Chapter 49: Connect to Mongodb  
+  - [Section 49.1: Simple example to Connect mongoDB from Node.JS](/book_pages/chapter49/section49.1.md)
+  - [Section 49.2: Simple way to Connect mongoDB with core Node.JS](/book_pages/chapter49/section49.2.md)
+
+* Chapter 50: Performance challenges
+
+  - [Section 50.1: Processing long running queries with Node](/book_pages/chapter50/section50.1.md)
