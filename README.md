@@ -355,6 +355,6 @@
 * Chapter 53: Database (MongoDB with Mongoose)  
 
   - [Section 53.1: Mongoose connection](/book_pages/chapter53/section53.1.md)
-  - [Section 53.2: Model](/book_pages/chapter53/section53.1.md)
-  - [Section 53.3: Insert data](/book_pages/chapter53/section53.1.md)
-  - [Section 53.4: Read data](/book_pages/chapter53/section53.1.md)
+  - [Section 53.2: Model](/book_pages/chapter53/section53.2.md)
+  - [Section 53.3: Insert data](/book_pages/chapter53/section53.3.md)
+  - [Section 53.4: Read data](/book_pages/chapter53/section53.4.md)
