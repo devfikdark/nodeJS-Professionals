@@ -343,3 +343,18 @@
 * Chapter 50: Performance challenges
 
   - [Section 50.1: Processing long running queries with Node](/book_pages/chapter50/section50.1.md)
+
+* Chapter 51: Send Web Notification
+
+  - [Section 51.1: Send Web notification using GCM ( Google Cloud Messaging System)](/book_pages/chapter51/section51.1.md)
+
+* Chapter 52: Remote Debugging in Node.JS
+
+  - [Section 52.1 to 52.3](/book_pages/chapter52/section52.1.md)
+
+* Chapter 53: Database (MongoDB with Mongoose)  
+
+  - [Section 53.1: Mongoose connection](/book_pages/chapter53/section53.1.md)
+  - [Section 53.2: Model](/book_pages/chapter53/section53.1.md)
+  - [Section 53.3: Insert data](/book_pages/chapter53/section53.1.md)
+  - [Section 53.4: Read data](/book_pages/chapter53/section53.1.md)
