@@ -358,3 +358,15 @@
   - [Section 53.2: Model](/book_pages/chapter53/section53.2.md)
   - [Section 53.3: Insert data](/book_pages/chapter53/section53.3.md)
   - [Section 53.4: Read data](/book_pages/chapter53/section53.4.md)
+
+* Chapter 54: Good coding style  
+
+  - [Section 54.1: Basic program for signup](/book_pages/chapter54/section54.1.md)
+
+* Chapter 55: Restful API Design: Best Practices  
+
+  - [Section 55.1: Error Handling: GET all resources](/book_pages/chapter55/section55.1.md)
+
+* Chapter 56: Deliver HTML or any other sort of file
+
+  - [Section 56.1: Deliver HTML at specified path](/book_pages/chapter56/section56.1.md)
